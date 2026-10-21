@@ -46,6 +46,7 @@ Da aula 02 em diante, os decks seguem os domínios do exame CLF-C02.
 | 07 | [DevOps e analytics](aulas/07-devops-e-analytics.pdf) | CodeCommit, CodeBuild, CodeDeploy, CodePipeline, CloudFormation, Athena, Glue, EMR, Kinesis e QuickSight. |
 | 08 | [IA e machine learning](aulas/08-ia-e-machine-learning.pdf) | Rekognition, Comprehend, Textract, Bedrock e SageMaker. |
 | 09 | [Well-Architected e Cloud Adoption Framework](aulas/09-well-architected-e-caf.pdf) | Os seis pilares do Well-Architected, as seis perspectivas do Cloud Adoption Framework e os planos de suporte. |
+| 10 | [Outros serviços](aulas/10-outros-servicos.pdf) | Serviços que caem na prova só pelo nome: governança, usuário final, migração e custos, com pegadinhas e flashcards. |
 
 ## Links úteis
 
