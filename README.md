@@ -44,6 +44,7 @@ Da aula 02 em diante, os decks seguem os domínios do exame CLF-C02.
 | 05 | [Redes e monitoramento](aulas/05-redes-e-monitoramento.pdf) | VPC, Route 53, CloudFront, API Gateway, Direct Connect, ELB, CloudWatch, CloudTrail, X-Ray e Config. |
 | 06 | [Segurança e conformidade](aulas/06-seguranca.pdf) | IAM, KMS, Cognito, WAF, Secrets Manager, Shield e GuardDuty. |
 | 07 | [DevOps e analytics](aulas/07-devops-e-analytics.pdf) | CodeCommit, CodeBuild, CodeDeploy, CodePipeline, CloudFormation, Athena, Glue, EMR, Kinesis e QuickSight. |
+| 08 | [IA e machine learning](aulas/08-ia-e-machine-learning.pdf) | Rekognition, Comprehend, Textract, Bedrock e SageMaker. |
 
 ## Links úteis
 
