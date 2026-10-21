@@ -41,6 +41,7 @@ Da aula 02 em diante, os decks seguem os domínios do exame CLF-C02.
 | 02 | [Introdução ao ecossistema da AWS](aulas/02-introducao-aws.pdf) | De on-premise a on-demand, infraestrutura global (regiões, AZs, edge), S3, EC2, Docker e IAM, com hands-on subindo backend e frontend. |
 | 03 | [Armazenamento e banco de dados](aulas/03-armazenamento-e-banco-de-dados.pdf) | S3, EBS, EFS, FSx, Storage Gateway, RDS, Aurora, DynamoDB, ElastiCache, Redshift, DocumentDB e Neptune. |
 | 04 | [Computação e integração](aulas/04-computacao-e-integracao.pdf) | EC2, Lambda, ECS, EKS, Fargate, Elastic Beanstalk, Lightsail, Batch, SQS, SNS, EventBridge e Step Functions. |
+| 05 | [Redes e monitoramento](aulas/05-redes-e-monitoramento.pdf) | VPC, Route 53, CloudFront, API Gateway, Direct Connect, ELB, CloudWatch, CloudTrail, X-Ray e Config. |
 
 ## Links úteis
 
