@@ -238,7 +238,7 @@ flowchart LR
 
 ## 🔗 Links úteis
 
-| | |
+| Link | Para quê |
 |---|---|
 | 🎓 [AWS Skill Builder](https://skillbuilder.aws/) | Cursos gratuitos e o *Cloud Practitioner Essentials* |
 | 📘 [Guia do exame CLF-C02](https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/cloud-practitioner-02.html) | O que cai na prova, oficialmente |
