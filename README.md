@@ -60,6 +60,22 @@ Cada desafio traz um cliente fictício com um problema real de nuvem. O **enunci
 
 > Tente resolver pelo enunciado antes de abrir o guia.
 
+## Simulados CLF-C02
+
+Cinco simulados autorais com **65 questões cada** (325 no total, sem repetição entre eles),
+com gabarito e explicação de cada alternativa. A distribuição segue os pesos oficiais do exame:
+
+| Domínio | Peso | Questões |
+|---|---|---|
+| D1 · Cloud Concepts | 24% | 16 |
+| D2 · Security and Compliance | 30% | 19 |
+| D3 · Cloud Technology and Services | 34% | 22 |
+| D4 · Billing, Pricing, and Support | 12% | 8 |
+
+[Simulado 01](simulados/simulado-clf-c02-01.pdf) · [Simulado 02](simulados/simulado-clf-c02-02.pdf) · [Simulado 03](simulados/simulado-clf-c02-03.pdf) · [Simulado 04](simulados/simulado-clf-c02-04.pdf) · [Simulado 05](simulados/simulado-clf-c02-05.pdf)
+
+Faça em 90 minutos, sem consulta, como no exame. A nota de aprovação da CLF-C02 é 700 de 1000.
+
 ## Links úteis
 
 - [AWS Skill Builder](https://skillbuilder.aws/)
