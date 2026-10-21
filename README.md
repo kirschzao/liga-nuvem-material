@@ -55,6 +55,7 @@ Cada desafio traz um cliente fictício com um problema real de nuvem. O **enunci
 | # | Desafio | O que se pratica | Arquivos |
 |---|---|---|---|
 | 01 | Dojo Digital | Deploy de uma API em Docker numa EC2, com PostgreSQL via Docker Compose e o frontend como SPA no S3. Extra: VPC Endpoint para o S3. | [enunciado](desafios/01-dojo-digital/enunciado.pdf) · [guia](desafios/01-dojo-digital/guia.pdf) |
+| 02 | A Casa Sempre Ganha (GiroBet) | Alta disponibilidade com Application Load Balancer, Auto Scaling Group em várias AZs e Security Groups encadeados. | [enunciado](desafios/02-girobet/enunciado.pdf) · [guia](desafios/02-girobet/guia.pdf) |
 
 > Tente resolver pelo enunciado antes de abrir o guia.
 
