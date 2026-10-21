@@ -38,6 +38,7 @@ Da aula 02 em diante, os decks seguem os domínios do exame CLF-C02.
 | # | Aula | Conteúdo |
 |---|---|---|
 | 01 | [Encontro inaugural](aulas/01-encontro-inaugural.pdf) | Abertura da Liga: proposta, ciclos do semestre e ecossistema do AWS Student Builder Group (Skill Builder, Credly, Meetup). |
+| 02 | [Introdução ao ecossistema da AWS](aulas/02-introducao-aws.pdf) | De on-premise a on-demand, infraestrutura global (regiões, AZs, edge), S3, EC2, Docker e IAM, com hands-on subindo backend e frontend. |
 
 ## Links úteis
 
