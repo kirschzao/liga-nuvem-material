@@ -48,6 +48,16 @@ Da aula 02 em diante, os decks seguem os domínios do exame CLF-C02.
 | 09 | [Well-Architected e Cloud Adoption Framework](aulas/09-well-architected-e-caf.pdf) | Os seis pilares do Well-Architected, as seis perspectivas do Cloud Adoption Framework e os planos de suporte. |
 | 10 | [Outros serviços](aulas/10-outros-servicos.pdf) | Serviços que caem na prova só pelo nome: governança, usuário final, migração e custos, com pegadinhas e flashcards. |
 
+## Desafios
+
+Cada desafio traz um cliente fictício com um problema real de nuvem. O **enunciado** descreve a missão e os critérios de entrega; o **guia** mostra um caminho de resolução, passo a passo.
+
+| # | Desafio | O que se pratica | Arquivos |
+|---|---|---|---|
+| 01 | Dojo Digital | Deploy de uma API em Docker numa EC2, com PostgreSQL via Docker Compose e o frontend como SPA no S3. Extra: VPC Endpoint para o S3. | [enunciado](desafios/01-dojo-digital/enunciado.pdf) · [guia](desafios/01-dojo-digital/guia.pdf) |
+
+> Tente resolver pelo enunciado antes de abrir o guia.
+
 ## Links úteis
 
 - [AWS Skill Builder](https://skillbuilder.aws/)
