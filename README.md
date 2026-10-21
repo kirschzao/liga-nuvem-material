@@ -42,6 +42,7 @@ Da aula 02 em diante, os decks seguem os domínios do exame CLF-C02.
 | 03 | [Armazenamento e banco de dados](aulas/03-armazenamento-e-banco-de-dados.pdf) | S3, EBS, EFS, FSx, Storage Gateway, RDS, Aurora, DynamoDB, ElastiCache, Redshift, DocumentDB e Neptune. |
 | 04 | [Computação e integração](aulas/04-computacao-e-integracao.pdf) | EC2, Lambda, ECS, EKS, Fargate, Elastic Beanstalk, Lightsail, Batch, SQS, SNS, EventBridge e Step Functions. |
 | 05 | [Redes e monitoramento](aulas/05-redes-e-monitoramento.pdf) | VPC, Route 53, CloudFront, API Gateway, Direct Connect, ELB, CloudWatch, CloudTrail, X-Ray e Config. |
+| 06 | [Segurança e conformidade](aulas/06-seguranca.pdf) | IAM, KMS, Cognito, WAF, Secrets Manager, Shield e GuardDuty. |
 
 ## Links úteis
 
