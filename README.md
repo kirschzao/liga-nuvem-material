@@ -31,6 +31,14 @@ simulados/    simulados da CLF-C02
 [`handbook/liga-nuvem-handbook-2026-2.pdf`](handbook/liga-nuvem-handbook-2026-2.pdf): o guia do
 membro para o semestre 2026/2. Comece por ele.
 
+## Aulas
+
+Da aula 02 em diante, os decks seguem os domínios do exame CLF-C02.
+
+| # | Aula | Conteúdo |
+|---|---|---|
+| 01 | [Encontro inaugural](aulas/01-encontro-inaugural.pdf) | Abertura da Liga: proposta, ciclos do semestre e ecossistema do AWS Student Builder Group (Skill Builder, Credly, Meetup). |
+
 ## Links úteis
 
 - [AWS Skill Builder](https://skillbuilder.aws/)
